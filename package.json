@@ -1,0 +1,15 @@
+{
+  "name": "minimal-handlebars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Vikram Saraph",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "handlebars": "^4.7.7"
+  }
+}
